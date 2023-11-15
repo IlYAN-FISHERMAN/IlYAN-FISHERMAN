@@ -1,16 +1,15 @@
-### Hi there 👋
+## Fisherman
 
-<!--
-**IlYAN-FISHERMAN/IlYAN-FISHERMAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Développeur passionné spécialisé dans le langage C, actuellement étudiant à l'école 42 Lausanne.
 
-Here are some ideas to get you started:
+💡 Mon profil GitHub comprend :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **`get_next_line` :** permet de lire une (ou plusieurs) ligne à partir d'un descripteur de fichier, offrant une gestion flexible des retours à la ligne.
+- **`Libft` :** Une bibliothèque personnelle regroupant mes propres fonctions, constamment enrichie.
+- **`printf` :** Implémentation personnelle de la fonction `printf`.
+
+🚀 Je me consacre à la maîtrise des concepts avancés du langage C, à l'optimisation du code et à la résolution de problèmes algorithmiques ainsi que la cybersécurité.
+
+🔧 Toujours ouvert aux collaborations et aux discussions techniques. Explorez mes projets, n'hésitez pas à me faire part de vos retours, et let's code together!
+
+<img src="https://www.42lausanne.ch/wp-content/uploads/2021/01/42_logo_white.svg" style="width:35%;">
